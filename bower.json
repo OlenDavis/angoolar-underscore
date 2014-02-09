@@ -1,0 +1,18 @@
+{
+	"name"       : "angoolar-underscore",
+	"authors"    : [ "Olen Davis <spelledlikeitsounds@gmail.com>" ],
+	"description": "This avails UnderscoreJS to Angoolar projects.",
+	"keywords"   : [
+		"angoolar",
+		"angular",
+		"UnderscoreJS",
+		"underscore"
+	],
+	"license" : "MIT",
+	"homepage": "http://angoolar.com",
+	"ignore"  : [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	]
+}
